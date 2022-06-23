@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-[cjackows's 42 stats](https://badge42.vercel.app/api/v2/cl4r9mqmj014009l6t5iuw1n6/stats?cursusId=21&coalitionId=151)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4r9mqmj014009l6t5iuw1n6/stats?cursusId=21&coalitionId=151" alt="cjackows's 42 stats" /></a>
 
 <br />
 <br />
