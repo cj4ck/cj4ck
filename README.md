@@ -1,4 +1,5 @@
-# Hi there, I'm Claudius Jackowski - aka cj4ck.
+# Hi there, 
+# I'm Claudius Jackowski - aka Cj4ck.
 
 🌱 I’m currently studying computer science at 42 Wolfsurg.
 
