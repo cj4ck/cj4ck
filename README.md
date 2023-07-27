@@ -72,7 +72,10 @@
   </p>
 </p>
 </section>
-
+<br>
+<h3 align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4r9mqmj014009l6t5iuw1n6/stats?cursusId=21&coalitionId=undefined" alt="cjackows's 42 stats" /></a>
+<br>
 <br>
 <h1 align="center"> My 42 Common Core Projects:</h1>
 <table align="center">
