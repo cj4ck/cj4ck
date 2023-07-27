@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/klaudiusz-jackowski/"><img width="32px" alt="Linkedin" title="Connect with me on Linkedin" src="https://i.imgur.com/QtuMZjB.png"/></a>
 </p>
 
-<br/>
 
 <!-- Social badges section -->
 
